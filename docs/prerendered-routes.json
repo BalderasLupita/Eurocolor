@@ -1,0 +1,15 @@
+{
+  "routes": [
+    "/",
+    "/acerca",
+    "/aditivos",
+    "/colores-pasta",
+    "/contacto",
+    "/esmaltes",
+    "/granilla",
+    "/herramientas",
+    "/materias-primas",
+    "/otros",
+    "/pigmentos"
+  ]
+}
